@@ -27,7 +27,7 @@ You should have `npm` installed:
 
 ### Step 1: Start the server locally.
 
-1. Pull this repo to your local somewhere: `git clone git@git.soma.salesforce.com:jmacmillin/todo-list.git`
+1. Pull this repo to your local somewhere: `git clone git clone git@github.com:justinmacmillin/todo-list.git`
 2. Set things up: `npm install`
 3. Start your react server: `npm start`
 4. If your browser doesn't automatically do it for you, open [http://localhost:3000](http://localhost:3000)
